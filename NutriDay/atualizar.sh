@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#código de automação para atualizar automaticamente quando haver alteração no código do app enquanto está conectado via depuração USB
 cd ~/ProjetosAndroid/NutriDay || exit
 
 echo "Observando alterações no NutriDay..."
