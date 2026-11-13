@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color amarelo_suave
+color bege
+color branco
+color verde
+color verde_claro
+color verde_escuro
+drawable nutriday_logo
+id btnEntrar
+id inputEmail
+id inputSenha
+layout activity_main

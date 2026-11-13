@@ -1,0 +1,11 @@
+com.pedro.nutriday:layout/activity_main = 0x7f040000
+com.pedro.nutriday:id/inputSenha = 0x7f030002
+com.pedro.nutriday:drawable/nutriday_logo = 0x7f020000
+com.pedro.nutriday:color/verde = 0x7f010003
+com.pedro.nutriday:id/btnEntrar = 0x7f030000
+com.pedro.nutriday:color/amarelo_suave = 0x7f010000
+com.pedro.nutriday:color/branco = 0x7f010002
+com.pedro.nutriday:id/inputEmail = 0x7f030001
+com.pedro.nutriday:color/verde_escuro = 0x7f010005
+com.pedro.nutriday:color/verde_claro = 0x7f010004
+com.pedro.nutriday:color/bege = 0x7f010001

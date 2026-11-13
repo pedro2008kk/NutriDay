@@ -1,0 +1,1 @@
+/home/pedro/ProjetosAndroid/NutriDay/app/build/intermediates/merged_res/debug/mergeDebugResources/drawable_nutriday_logo.png.flat /home/pedro/ProjetosAndroid/NutriDay/app/build/intermediates/merged_res/debug/mergeDebugResources/layout_activity_main.xml.flat /home/pedro/ProjetosAndroid/NutriDay/app/build/intermediates/merged_res/debug/mergeDebugResources/values_values.arsc.flat 

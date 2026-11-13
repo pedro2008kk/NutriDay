@@ -1,0 +1,7 @@
+#Fri Nov 13 17:55:55 BRT 2026
+base.0=/home/pedro/ProjetosAndroid/NutriDay/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/home/pedro/ProjetosAndroid/NutriDay/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+path.0=0/classes.dex
+path.1=11/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
