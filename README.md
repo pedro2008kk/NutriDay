@@ -12,10 +12,10 @@ A proposta do aplicativo é oferecer uma experiência simples e intuitiva voltad
 - Definir uma identidade visual própria, incluindo logotipo e paleta de cores.
 - Desenvolver habilidades técnicas por meio de um projeto prático.
 
-## Tecnologias
+## Ferramentas e linguagens de programação utilizadas
 
-- Kotlin
-- Android Studio
+- Kotlin/java
+- vscode com extensão "Android Studio Lite"
 
 ## Status do projeto
 
