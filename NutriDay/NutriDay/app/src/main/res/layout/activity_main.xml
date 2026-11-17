@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bege"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="28dp">
+
+<ImageView
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:src="@drawable/nutriday_logo"
+    android:scaleType="fitCenter"
+    android:contentDescription="Logo NutriDay"
+    android:layout_marginTop="80dp"
+    android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NutriDay"
+            android:textColor="@color/verde"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:layout_marginTop="65dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sua alimentação, seu equilíbrio."
+            android:textColor="@color/verde_escuro"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="45dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bem-vindo de volta!"
+            android:textColor="@color/verde_escuro"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/inputEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Seu e-mail"
+            android:inputType="textEmailAddress"
+            android:padding="16dp"
+            android:layout_marginTop="25dp"
+            android:backgroundTint="@color/verde" />
+
+        <EditText
+            android:id="@+id/inputSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Sua senha"
+            android:inputType="textPassword"
+            android:padding="16dp"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="@color/verde" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Esqueceu sua senha?"
+            android:textColor="@color/verde"
+            android:gravity="end"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:id="@+id/btnEntrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Entrar"
+            android:textColor="@color/branco"
+            android:backgroundTint="@color/verde"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ainda não tem uma conta? Cadastre-se"
+            android:textColor="@color/verde_escuro"
+            android:layout_marginTop="25dp" />
+
+    </LinearLayout>
+</ScrollView>
