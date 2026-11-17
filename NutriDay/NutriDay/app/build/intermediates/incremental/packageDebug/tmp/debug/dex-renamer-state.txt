@@ -1,7 +1,0 @@
-#Tue Nov 17 14:07:01 BRT 2026
-base.0=C\:\\Users\\QI\\StudioProjects\\NutriDay\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=C\:\\Users\\QI\\StudioProjects\\NutriDay\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-path.0=0/classes.dex
-path.1=11/classes.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
