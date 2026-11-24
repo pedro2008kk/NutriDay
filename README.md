@@ -19,7 +19,7 @@ A proposta do aplicativo é oferecer uma experiência simples e intuitiva voltad
 
 ## Status do projeto
 
-🚧 Em desenvolvimento — projeto criado para fins educacionais e de aprendizado.
+Em desenvolvimento — projeto criado para fins educacionais e de aprendizado.
 
 ---
 
